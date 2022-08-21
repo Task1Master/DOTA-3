@@ -1,0 +1,149 @@
+.body {
+    margin: 0px;}
+.main {
+    background: linear-gradient( to right,rgba(17, 20, 26, 0.986), rgb(72, 96, 116) );}
+/* menu  */
+.menu {
+    display: flex;
+    color: white;}
+.dota-1 {
+    margin-right: 10px;
+    width: 38px;
+    height: 38px;
+    padding-bottom: 10px;
+    padding-top: 12px;}
+.dota-0 {
+    padding-left: 26px;
+   margin: 0px;}
+.dota {
+    margin-left: 11px;
+    padding-left: 0px;
+    font-size: 35px;
+    color: white;
+    padding-top: 0px;
+    margin-top: 13px;
+    margin-right: 20px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;}
+.game {
+    font-size: 30px;
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 18px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;}
+.heroes {
+    font-size: 30px;
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 18px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;}
+.news {
+    font-size: 30px;
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 18px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;}
+.esports {
+    font-size: 30px;
+    color: white;
+    margin-left: 20px;
+    margin-right: 50px;
+    margin-top: 18px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;}
+.login {
+    font-size: 15px;
+    color:rgb(151, 151, 151) ;
+    margin-left: 150px;
+    margin-top: 10px;}
+.language {
+    font-size: 15px;
+    color:rgb(151, 151, 151)  ;
+    margin-left: 50px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;}
+.pfp {
+    font-size: 25px;
+    color: white;
+    margin-left: 30px;
+    margin-top: 20px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;}
+    /* content  */
+.content {
+    color: white;
+    margin-left: 400px;
+    margin-top: 70px;
+    margin-bottom: 10px;
+    font-size: 50px;} 
+.content-0 {
+    color: white;
+    font-size: 25px;
+    margin: 0px 170px;} 
+.content-1 {
+    color: white;
+    font-size: 25px;
+    margin: 0px 180px 0px 200px ;} 
+.content-2 {
+    color: white;
+    font-size: 25px;
+    margin: 0px 190px 0px 630px;} 
+ /* filter heroes  */
+.filter {
+    background: linear-gradient( to right,rgba(9, 11, 14, 0.986), rgb(63, 70, 75) );
+    height: 70px;
+    width: 1200px;
+    margin-left: 70px;
+    margin-bottom: 15px;
+    display: flex;
+}
+ .filter-heroes {
+    color: white;
+    margin-left: 20px;
+    margin-top: 25px;
+ }
+.photo-heroes {
+    margin-left: 25px;
+}
+.attribute {
+    color:rgb(151, 151, 151) ;
+    font-size: 17px;
+    margin-left: 130px;
+    margin-top: 27px;
+}
+.complexity {
+    color:rgb(151, 151, 151) ;
+    font-size: 17px;
+    margin-left: 130px;
+    margin-top: 27px;
+}
+.filter-photo {
+    width: 140px;
+    height: 55px;
+    margin-top: 8px;
+}
+    /* logo  */
+.logo {
+    background-color: black;
+    padding: 30px 400px 30px 440px ;}
+.logo-1 {
+    width: 100px;
+    height: 30px;}
+.logo-2 {
+    width: 150px;
+    height: 30px;
+    margin-left: 240px;}
+.logo-3 {
+    color: rgb(151, 151, 151) ;
+    font-size: 15px;
+    margin-left: 15px;}  
+.hero-icon {
+    width: 256px;
+    height: 144px;}        
